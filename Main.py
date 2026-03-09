@@ -11,7 +11,7 @@ signal_history = []  # হিস্ট্রি টেবিলের জন্�
 
 # --- settings ---
 TELEGRAM_TOKEN = "8354111202:AAEqFLMoJ7W7AlwpfHibZbpusiWbnOcl5Xc"
-CHAT_ID = "-1003606163349"
+CHAT_ID = "-1003815798939"
 SIGNAL_API_URL = "https://mrbeaxt.site/Qx/Qx.php?pair={pair}&count=1&format=json"
 
 pair_wait_until = {}
